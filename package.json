@@ -1,0 +1,24 @@
+{
+  "name": "generate-magic-square",
+  "version": "1.0.0",
+  "description": "This package will generate the magic square for the given input",
+  "main": "generateMagicSquare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasanna Balaji",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsprasanna/generate-magic-square.git"
+  },
+  "keywords": [
+    "magic",
+    "square",
+    "generate"
+  ],
+  "bugs": {
+    "url": "https://github.com/gsprasanna/generate-magic-square/issues"
+  },
+  "homepage": "https://github.com/gsprasanna/generate-magic-square#readme"
+}
